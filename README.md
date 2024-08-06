@@ -1,10 +1,5 @@
 # Analysis of Traffic Stop Receipts in Buffalo, NY
 
-**Authors:**
-- Ryan Glasser (rtglasse)
-- Rian Casimir (riancasi)
-- Vatsalya Anand (vatsalya)
-
 ## I. Project Overview
 This project and supplemental report serve to investigate, analyze, and communicate findings about records of traffic stop receipts issued in the City of Buffalo and its thirty-five neighborhoods from October 1, 2022, to October 17, 2023.
 

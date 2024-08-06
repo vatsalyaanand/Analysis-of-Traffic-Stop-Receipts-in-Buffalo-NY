@@ -1,4 +1,4 @@
-Find the average age and the number of traffic stops grouped by race
+## Find the average age and the number of traffic stops grouped by race
 ```sql
 
 SELECT Person.Race,

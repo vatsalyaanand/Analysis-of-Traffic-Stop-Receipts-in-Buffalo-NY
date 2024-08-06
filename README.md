@@ -59,6 +59,7 @@ A political campaign for a candidate running for city mayor wishes to understand
 ### A. Figure
 
 The figure below depicts the entity-relationship diagram for the traffic stop database.
+![Entity-Relationship Diagram](/ERdiagram.png)
 
 ### B. Relationships Between Tables
 

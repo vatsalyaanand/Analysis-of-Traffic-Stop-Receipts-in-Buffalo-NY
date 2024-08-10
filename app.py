@@ -27,14 +27,10 @@ if st.button("Run Query"):
             # Get column names
             colnames = [desc[0] for desc in cursor.description]
 
-        # Convert the result to a pandas DataFrame
         df = pd.DataFrame(result, columns=colnames)
-
-        # Display the result as a table
         st.write("Query Result:")
-        st.dataframe(df)  # You can use st.table(df) for a static table view
+        st.dataframe(df)
     except Exception as e:
         st.error(f"Error executing the query: {e}")
 
-# Close the database connection
 db_connection.close()
